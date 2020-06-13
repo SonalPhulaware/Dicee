@@ -10,10 +10,13 @@
 
 }
 
-body {
+.body-bg {
   background-color: #393E46;
 }
 
+.play-button{
+      text-align: center;
+}
 h1 {
   margin: 30px;
   font-family: 'Lobster', cursive;
